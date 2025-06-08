@@ -1,0 +1,91 @@
+# Privacy Policy for Archibald (Automod)
+
+**Last Updated: June 7, 2025**
+
+## 1. Introduction
+
+This Privacy Policy explains how Archibald (Automod) ("the Bot", "we", "us", "our") collects, uses, and protects information when you use our Discord bot.
+
+## 2. Information We Collect
+
+### 2.1 Automatically Collected Information
+When you use the Bot, we may collect:
+- Discord user IDs
+- Discord server (guild) IDs
+- Message content (only when directly interacting with the Bot or when necessary for moderation features)
+- Command usage data
+- Server configuration settings
+
+### 2.2 Stored Information
+The Bot may store:
+- Server-specific configuration settings
+- Moderation logs (user actions, infractions)
+- Custom command configurations
+- Role and permission settings
+- Temporary cache data for Bot functionality
+
+## 3. How We Use Information
+
+We use collected information to:
+- Provide and maintain Bot functionality
+- Execute commands and features as requested
+- Maintain moderation logs and server security
+- Improve Bot performance and features
+- Troubleshoot technical issues
+- Ensure compliance with our Terms of Service
+
+## 4. Data Storage and Security
+
+- Data is stored on secure servers with access limited to Bot operators
+- We implement reasonable security measures to protect stored data
+- Cached data is automatically purged after a reasonable time period
+- We do not sell, trade, or transfer your information to third parties
+
+## 5. Data Retention
+
+- Server configuration data is retained as long as the Bot remains in your server
+- Moderation logs are retained for 90 days unless otherwise configured
+- Temporary cache data is retained for no more than 24 hours
+- You may request deletion of your server's data at any time
+
+## 6. User Rights
+
+You have the right to:
+- Request access to data we store about your server
+- Request correction of inaccurate data
+- Request deletion of your server's data
+- Remove the Bot from your server at any time
+
+## 7. Third-Party Services
+
+The Bot may integrate with:
+- Discord API (governed by Discord's Privacy Policy)
+- Gaming APIs for stats and information (if applicable)
+- Other third-party services as disclosed in Bot documentation
+
+## 8. Children's Privacy
+
+The Bot is not intended for use by anyone under the age of 13, consistent with Discord's minimum age requirement.
+
+## 9. International Data
+
+Data may be processed and stored in various locations. By using the Bot, you consent to the transfer of information to countries outside your country of residence.
+
+## 10. Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. We encourage you to review this policy periodically for any changes.
+
+## 11. Contact Information
+
+For privacy-related questions or concerns, please contact us through our community Discord server.
+
+## 12. Data Breach Notification
+
+In the event of a data breach that may compromise user information, we will:
+- Notify affected server administrators through Discord
+- Post an announcement in our community server
+- Take immediate steps to secure the affected data
+
+---
+
+**By using Archibald (Automod), you acknowledge that you have read, understood, and agree to this Privacy Policy.**
